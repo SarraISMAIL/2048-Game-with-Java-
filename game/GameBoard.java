@@ -15,8 +15,8 @@ public class GameBoard {
 	public static final int UP = 2;
 	public static final int DOWN = 3;
 
-	public static final int ROWS = 4;
-	public static final int COLS = 4;
+	public static final int ROWS = 4; 
+	public static final int COLS = 4; 
 
 	private final int startingTiles = 2;
 	private Tile[][] board;

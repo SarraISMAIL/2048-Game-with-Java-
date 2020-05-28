@@ -11,7 +11,7 @@ import A104.project.game.GameBoard;
 
 public class DifficultyPanel extends GuiPanel {
         private Font titleFont = Game.main.deriveFont(72f);
-	private String title = "Difficluty";
+	private String title = "Difficulty";
 	private int buttonWidth = 220;
         private GameBoard board;
         private final GuiButton EasyButton,MedButton,HardButton;
